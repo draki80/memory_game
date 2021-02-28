@@ -12,6 +12,7 @@ npm run dev
 
 # Start Vue DevServer: http://localhost:8080
 cd client
+npm install
 npm run serve
 
 ```
