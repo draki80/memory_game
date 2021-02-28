@@ -1,7 +1,7 @@
 # Memory Game
 Simple memory game
 
-## Quick Start
+## Instalation steps
 
 ```bash
 # Install dependencies
