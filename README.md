@@ -4,15 +4,19 @@ Simple memory game
 ## Instalation steps
 
 ```bash
-# Install dependencies
+
+# Install server dependencies
+cd server
 npm install
 
 # Start Express Server: http://localhost:5000
 npm run dev
 
-# Start Vue DevServer: http://localhost:8080
+# Install client dependencies
 cd client
 npm install
+
+# Start Vue DevServer: http://localhost:8080
 npm run serve
 
 ```
